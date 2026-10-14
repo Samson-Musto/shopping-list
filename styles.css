@@ -1,0 +1,51 @@
+body {
+    font-family: Aerial, sans-serif;
+    text-align: center;
+    background-color: darkolivegreen;
+    padding: 20px;
+    
+}
+
+h1 {
+    color: violet;
+}
+ 
+input {
+    margin: 5px;
+    padding: 10px;
+    width: 90px;
+    box-sizing: border-box;
+}
+
+button {
+    padding-bottom: 10px 15px;
+    margin: 5px;
+    background-color: skyblue;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    background-color: #eef4ef;
+    margin: 10px 0;
+    padding: 12px;
+    border-radius: 5px;
+}
+
+.purchased {
+    text-decoration: line-through;
+    background-color: whitesmoke;
+}
+
+.description {
+    color: white;
+    font-size: 16px;
+    margin-bottom: 26px;
+    line-height: 1.5;
+}
